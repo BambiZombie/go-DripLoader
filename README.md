@@ -4,7 +4,7 @@ DripLoader 的 golang 实现
 
 ### 使用方法
 
-msf 和 cs 直接生成的 shellcode 太小，我用原版的没成功，这里可以先生成一个dll，然后使用 sRDI 项目转换成 shellcode （我自己写了一个golang版本的，也可以用）：
+msf 和 cs 直接生成的 shellcode 太小，我用原版的DripLoader也没成功，这里可以先生成一个dll，然后使用 sRDI 项目转换成 shellcode （我自己写了一个golang版本的，也可以用）：
 
 ```
 // https://github.com/monoxgas/sRDI
