@@ -1,6 +1,7 @@
 # go-DripLoader
 
 DripLoader 的 golang 实现
+个人学习使用，请勿用于非法目的
 
 ### 使用方法
 
